@@ -1,0 +1,11 @@
+{
+    "git.alwaysSignOff": true,
+    "git.alwaysShowStagedChangesResourceGroup": true,
+    "git.allowNoVerifyCommit": true,
+    "git.allowForcePush": true,
+    "git.closeDiffOnOperation": true,
+    "git.branchRandomName.enable": true,
+    "git.ignoreRebaseWarning": false,
+    "git.supportCancellation": true,
+    "git.verboseCommit": true
+}
